@@ -1,0 +1,4 @@
+1. section tag
+simply helps in mamking sections ,if the content is
+represented in from of section it will be easy to maintain the 
+coode.

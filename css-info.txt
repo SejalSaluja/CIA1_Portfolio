@@ -1,0 +1,3 @@
+1. :root{}
+it simply selects all the html elements and is one of the 
+standard way of adding css properties to html elements
